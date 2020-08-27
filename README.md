@@ -6,7 +6,7 @@ Prediction of Approval of Consumer Personal Loans Applications using different M
 Understand the Test and Train Data.
 Implement steps like Feature Engineering, Feature Selection, EDA, Model Training etc.
 Use the libraries like numpy, pandas, matplotlib and seaborn etc.
-Usage of different models to train the data like below :
+Usage of different models to train the data like below :\n
     Logistic Regression.
     Support Vector Classifier.
     K-nearest Neighbor.
